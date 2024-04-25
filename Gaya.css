@@ -1,0 +1,75 @@
+img{
+    width: 400px;
+    height: 300px;
+}
+
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+
+}
+
+header h1{
+    font: 35px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+
+
+section span{
+    color: blue;
+    background-color: rgb(23, 187, 67);
+    font-size: 30px;
+    width: 200px;
+}
+
+p.biru{
+    color: aqua;
+    background-color: rgb(179, 111, 23);
+    font-size: 30px;
+    width: 200px;
+}
+
+p.hijau{
+    color: chartreuse;
+    background-color: rgb(246, 28, 170);
+    font-size: 30px;
+    width: 200px;
+}
+
+p.merah{
+    color: red;
+    background-color: rgb(8, 127, 231);
+    font-size: 30px;
+    width: 200px;
+}
+
+
+
+
+.seratus{
+    background-color: black;
+    color: white;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    border: 70px auto 75px auto ;
+    padding: 50px;
+    margin: 30px;
+}
+
+
+.lima{
+    background-color: rgb(255, 0, 0);
+    color: rgb(0, 199, 249);
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    border: 100px auto 95px auto;
+    padding: 60px;
+    margin: 40px;
+}
